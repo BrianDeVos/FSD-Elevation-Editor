@@ -12,6 +12,7 @@ This is the release repo for Foxtrot Scenery Design's Elevation Editor. This too
 - [ ] More...
 
 ## Getting Started
+![image](https://github.com/BrianDavos/FSD-Elevation-Editor/assets/44494655/d51352b6-7aac-4191-bc55-aaa55a88d819)
 
 
 ## Documentation
