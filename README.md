@@ -11,5 +11,11 @@ This is the release repo for Foxtrot Scenery Design's Elevation Editor. This too
 - [ ] Flatten coastlines using shapefiles
 - [ ] More...
 
+## Getting Started
+
+
+## Documentation
+COMING SOON
+
 ## Disclaimer
 While this method works, it does not use the native CGL format since there is no updated method or tool available to generate CGL files. Therefore, this method is not guaranteed to offer the same performance as the native CGL files. Nonetheless, it should provide a reliable way to get elevation data into MSFS.
