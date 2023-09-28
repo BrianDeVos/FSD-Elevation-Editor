@@ -8,6 +8,7 @@ This is the release repo for Foxtrot Scenery Design's Elevation Editor. This too
 - [ ] Add Irregular (Quadtree) Tessellation for projects with various resolutions in different areas
 - [ ] Improved UI and UX, especially visualising the area of interest being worked on and improved progress reporting
 - [ ] Import/Export 3D models of (handsculped) terrain from and to MSFS
+- [ ] Flatten coastlines using shapefiles
 - [ ] More...
 
 ## Disclaimer
