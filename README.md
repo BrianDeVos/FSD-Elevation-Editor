@@ -13,6 +13,12 @@ This is the release repo for Foxtrot Scenery Design's Elevation Editor. This too
 
 ## Getting Started
 ![image](https://github.com/BrianDavos/FSD-Elevation-Editor/assets/44494655/d51352b6-7aac-4191-bc55-aaa55a88d819)
+1. Open a WGS84 EPSG:4326 DEM raster image
+2. Open a MSFS scenery xml where you want the rectangles to be placed
+3. Choose a desired resolution in metres. The tool will not upscale the raster and will use the maximum available resolution. The tool will downscale an image if needed using bilinear interpolation
+4. If checked, the default falloff will be overidden. By default, the tool will use a falloff value equal to the resolution and at the edge rectangles it will use higher values to blend the default terrain into the rectangles (Note, due to terraforming bug in MSFS, blending does not work as expected)
+5. Start the conversion process
+6. Status window for user feedback
 
 
 ## Documentation
