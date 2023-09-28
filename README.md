@@ -2,7 +2,7 @@
 This is the release repo for Foxtrot Scenery Design's Elevation Editor. This tool allows you to convert a Digital Elevation Model (DEM) raster image to Microsoft Flight Simulator Rectangle objects with heightmaps. 
 
 ## Roadmap
-- [x] Create elevation rectangles from single georeferenced raster files
+- [x] Create elevation rectangles from single georeferenced raster files (WGS84 EPSG:4326 only!)
 - [ ] Create elevation rectangles from multiple raster files
 - [ ] Drape runways over customised terrain
 - [ ] Add Irregular Tessellation for projects with various resolutions in different areas
